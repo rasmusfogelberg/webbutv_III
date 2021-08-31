@@ -12,5 +12,5 @@ För denna uppgift ska ett repositoriet skapas för att öva på att använda Gi
 ![GitHub logo](./github-logo.png)
 
 
-Dessa nya kunskaperna kommer jag sedan applicera ~i~ på min egna projektwebbplats.
+Dessa nya kunskaperna kommer jag sedan applicera ~inom~ på min egna projektwebbplats.
 
